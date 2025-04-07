@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29" height="29">
+	<path fill="none" stroke="#3F3B37" stroke-width="2.4000001" stroke-linecap="round" stroke-linejoin="round" transform="translate(4.83333 3.625)" d="M10.270833 16.916666L0 16.916666C1.3353463 16.160496 2.2322574 14.815129 2.4166667 13.291667L2.4166667 9.666667C2.5633206 6.5422139 4.4222951 3.7537522 7.25 2.4166667C7.25 1.0819786 8.3319788 0 9.666667 0C11.001355 0 12.083333 1.0819786 12.083333 2.4166667C14.911038 3.7537522 16.770012 6.5422139 16.916666 9.666667L16.916666 10.875" fill-rule="evenodd"/>
+	<path fill="none" stroke="#3F3B37" stroke-width="2.4000001" stroke-linecap="round" stroke-linejoin="round" transform="translate(10.875 20.5417)" d="M0 0L0 1.2083334C-0.00023794941 2.2776515 0.47165409 3.2925212 1.2894485 3.9814723C2.1072431 4.6704235 3.1874969 4.9631591 4.24125 4.7813749" fill-rule="evenodd"/>
+	<path fill="none" stroke="#3F3B37" stroke-width="2.4000001" stroke-linecap="round" stroke-linejoin="round" transform="translate(19.3333 22.3542)" d="M0 0.60416669L7.25 0.60416669" fill-rule="evenodd"/>
+	<path fill="none" stroke="#3F3B37" stroke-width="2.4000001" stroke-linecap="round" stroke-linejoin="round" transform="translate(22.3542 19.3333)" d="M0.60416669 0L0.60416669 7.25" fill-rule="evenodd"/>
+</svg>

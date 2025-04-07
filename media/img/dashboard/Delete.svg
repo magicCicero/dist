@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="20">
+	<path fill="none" stroke="#C83E37" stroke-width="1.6666666" stroke-linecap="round" stroke-linejoin="round" transform="translate(0.833008 0.833252)" d="M0 4L16 4"/>
+	<path fill="none" stroke="#C83E37" stroke-width="1.6666666" stroke-linecap="round" stroke-linejoin="round" transform="translate(0.833008 0.833252)" d="M6 8L6 14"/>
+	<path fill="none" stroke="#C83E37" stroke-width="1.6666666" stroke-linecap="round" stroke-linejoin="round" transform="translate(0.833008 0.833252)" d="M10 8L10 14"/>
+	<path fill="none" stroke="#C83E37" stroke-width="1.6666666" stroke-linecap="round" stroke-linejoin="round" transform="translate(0.833008 0.833252)" d="M1 4L2 16C2 16.530434 2.2107136 17.039141 2.5857863 17.414213C2.9608591 17.789286 3.4695671 18 4 18L12 18C12.530433 18 13.039141 17.789286 13.414213 17.414213C13.789286 17.039141 14 16.530434 14 16L15 4"/>
+	<path fill="none" stroke="#C83E37" stroke-width="1.6666666" stroke-linecap="round" stroke-linejoin="round" transform="translate(0.833008 0.833252)" d="M5 4L5 1C5 0.73478347 5.1053572 0.48042956 5.2928934 0.29289317C5.4804296 0.1053568 5.7347836 0 6 0L10 0C10.265217 0 10.51957 0.1053568 10.707107 0.29289317C10.894643 0.48042956 11 0.73478347 11 1L11 4"/>
+</svg>

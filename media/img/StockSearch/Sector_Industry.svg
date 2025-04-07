@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="27">
+	<path fill="none" stroke="black" stroke-width="2.6666667" stroke-linecap="round" stroke-linejoin="round" transform="translate(1.3335 1.33398)" d="M0 24L24 24"/>
+	<path fill="none" stroke="black" stroke-width="2.6666667" stroke-linecap="round" stroke-linejoin="round" transform="translate(1.3335 1.33398)" d="M2.6666667 24L2.6666667 8L9.333333 13.333333L9.333333 8L16 13.333333L21.333334 13.333333"/>
+	<path fill="none" stroke="black" stroke-width="2.6666667" stroke-linecap="round" stroke-linejoin="round" transform="translate(1.3335 1.33398)" d="M21.333334 24L21.333334 13.333333L19.418665 0.56800097C19.39501 0.40993083 19.315355 0.26561967 19.194212 0.16136186C19.073067 0.057104051 18.918497 0 18.758667 0L17.232 0C17.073967 -0.00024249603 16.920986 0.055661906 16.800344 0.15774234C16.679705 0.25982279 16.599251 0.40144041 16.573334 0.55733413L14.666667 12"/>
+	<path fill="none" stroke="black" stroke-width="2.6666667" stroke-linecap="round" stroke-linejoin="round" transform="translate(1.3335 1.33398)" d="M8 18.666666L9.333333 18.666666"/>
+	<path fill="none" stroke="black" stroke-width="2.6666667" stroke-linecap="round" stroke-linejoin="round" transform="translate(1.3335 1.33398)" d="M14.666667 18.666666L16 18.666666"/>
+</svg>
